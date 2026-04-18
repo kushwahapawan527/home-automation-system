@@ -29,7 +29,7 @@ The HC-05 Bluetooth module receives commands from a smartphone and sends them to
 ![Circuit Diagram](circuit_diagram.png)
 
 ## 🔹 Project Model
-(Add your image here)
+![Project Model](project_model.jpeg)
 
 ## 🔹 Code
 The Arduino code is available in: home_automation.ino
