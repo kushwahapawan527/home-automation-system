@@ -37,5 +37,5 @@ The Arduino code is available in: home_automation.ino
 ## 🔹 Project Report
 ![Download PDF](project_report.pdf)
 
-## 🎥 Demo
-(Add your video link here)
+## 🔹 Demo
+(https://www.linkedin.com/posts/kushwahapawan527_miniproject-smarthome-iot-activity-7341788645923733505-_J9z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDvl2kB6PRtyj4xUWG4RrN098KB23CkRwY))
