@@ -26,7 +26,7 @@ This project is a Bluetooth-controlled smart home automation system using Arduin
 The HC-05 Bluetooth module receives commands from a smartphone and sends them to the Arduino. The Arduino processes the input and controls the relay to switch appliances ON or OFF.
 
 ## 🔹 Circuit Diagram
-![Circuit](circuit_diagram)
+![Circuit Diagram](circuit_diagram.png)
 
 ## 🔹 Project Model
 (Add your image here)
